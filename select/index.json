@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "color capsule",
+  "base_artist": "yanaginagi",
+  "createdAt": "2025-12-04T18:13:48.955518Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "color capsule",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/01_color_capsule_yanaginagi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "color capsule",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_color_capsule_やなぎなぎ.txt"
+    }
+  ]
+}
